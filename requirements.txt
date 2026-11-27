@@ -1,0 +1,4 @@
+# force rebuild v1
+streamlit
+requests
+beautifulsoup4
